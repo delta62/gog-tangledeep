@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tangledeep
+Comment=16-bit Roguelike Dungeon Crawler!
+Exec=gog-tangledeep
+Icon=gog-tangledeep
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;Game;AudioVideo;
